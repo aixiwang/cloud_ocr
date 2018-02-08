@@ -53,8 +53,8 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         image_name = sys.argv[1]
 
-    ak = 'SD0kxTcbslKAkjVRIafiu7fy'
-    sk = 'C6qHOWHelM0u2XVdzlXOZhDdwqpEiYP7'        
+    ak = 'xxx'
+    sk = 'xxx'        
     do_ocr(image_name,ak,sk)
     
     
