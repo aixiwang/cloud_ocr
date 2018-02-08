@@ -1,0 +1,9 @@
+{
+ "duration": 5,
+ "access_key_id": "xxx",
+ "access_key_secret": "xxx",
+ "bucket_name": "nnnnn",
+ "endpoint": "https://oss-cn-hangzhou.aliyuncs.com",
+ "bd_ocr_ak": "xxx",
+ "bd_ocr_sk": "xxx"
+}
